@@ -19,7 +19,7 @@ A simple and user-friendly web-based EPUB reader application. Read EPUB files di
 
 ### Online Usage
 
-1. Visit the [GitHub Pages version](https://ta-plug.github.io/epub_viewer/epub-viewer.html)
+1. Visit the [GitHub Pages version](https://josiah-rui-tuite.github.io/epub-viewer/)
 2. Drag and drop an EPUB file, or click the "Open" button to select a file
 3. Enjoy reading!
 
